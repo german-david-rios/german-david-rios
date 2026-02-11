@@ -3,7 +3,7 @@
 #### Estudiante, argentino
 
 - me gustan mucho las Matemáticas.
-n! := \(\mathbb{N}\) ->  \(\mathbb{N}\) : n! = Γ(n+1)
+n! := $\mathbb{N}$ ->  $\mathbb{N}$ : n! = Γ(n+1)
 - también me gusta programar.
 `unsigned int factorial(unsigned int n){return (n) ? n * factorial(n-1) : 1;}`
 
